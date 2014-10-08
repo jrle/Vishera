@@ -2,4 +2,4 @@ Vishera
 =======
 
 Current Owner - jrle
-Contributers:
+Contributors:
